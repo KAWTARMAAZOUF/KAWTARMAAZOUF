@@ -11,7 +11,7 @@
           &nbsp; &nbsp;✔️ Devops : DOCKER | KUBERNETES  <br>
           &nbsp; &nbsp;✔️ Front-end : REACT-JS | JAVASCRIPT  <br>
           &nbsp; &nbsp;✔️ Back-end : LARAVEL | PHP  <br> 
-          &nbsp; &nbsp;✔️ Design : UML |canva| Figma <br>
+          &nbsp; &nbsp;✔️ Design : UML |Canva| Figma <br>
           &nbsp; &nbsp;✔️ DateBases : MYSQL | MONGODB <br>
         
         
