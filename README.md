@@ -8,7 +8,7 @@
 - 👀 I’m interested in :<br>
         ☕ Full-Stack <br>
           &nbsp; &nbsp;✔️ Tools : GIT | GITHUB <br>
-          &nbsp; &nbsp;✔️ Devops : DOCKER | KUBERNETES  <br>
+          &nbsp; &nbsp;✔️ Devops : DOCKER | KUBERNETES | JENKINS  <br>
           &nbsp; &nbsp;✔️ Front-end : REACT-JS | JAVASCRIPT  <br>
           &nbsp; &nbsp;✔️ Back-end : LARAVEL | PHP  <br> 
           &nbsp; &nbsp;✔️ Design : UML |Canva| Figma <br>
