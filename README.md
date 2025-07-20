@@ -13,6 +13,7 @@
           &nbsp; &nbsp;✔️ Back-end : LARAVEL | PHP  <br> 
           &nbsp; &nbsp;✔️ Design : UML |Canva| Figma | Design Patterns | Clean code-Solid principles <br>
           &nbsp; &nbsp;✔️ DateBases : MYSQL | MONGODB <br>
+          &nbsp; &nbsp;✔️ Web Service: JSON | XML <br>
         
         
 - 🌱 I’m currently studying  Full-stack web Developement  <br>
