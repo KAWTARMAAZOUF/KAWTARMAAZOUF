@@ -2,7 +2,7 @@
 
 # HOLA , I'm KAWTAR👋 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yasminadh&theme=radical&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KAWTARMAAZOUF&theme=radical&show_icons=true)
 ## Full-Stack Developer!
 -  Hi 👋, I’m @KAOUTAR MAAZOUF A FULL-STACK WEB DEVELOPER
 - 👀 I’m interested in :<br>
@@ -18,12 +18,13 @@
 - 🌱 I’m currently studying  Full-stack web Developement  <br>
 - 📖 I’m currently learning everything 🤣 <br>
 - 👯 I’m looking to collaborate with other companies and adding crucial improvements
-- 🥅 2024 Goals: Learn more about Mobile application , and AI projects  <br>
+- 🥅 2025 Goals: Learn more about Mobile application , and AI projects  <br>
 - 📫 How to reach me : Email : yagamilouzi@gmail.com / Phone : +212 700 57 30 98  <br>
 
 ### 💻 Top Programming Languages
 
-[![Top Langs](
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KAWTARMAAZOUF&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Languages and Tools:
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
